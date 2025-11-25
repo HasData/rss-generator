@@ -9,7 +9,7 @@ It is useful for developers, researchers, analysts, and anyone who needs structu
 
 ## 🚀 Features
 
-[![Preview](media/rss.png)](https://hasdata.com/)
+[![Preview](media/rss.png)](https://rss-generator-and-exporter.streamlit.app/)
 * Build Google News RSS queries with:
 
   * Keyword
@@ -79,4 +79,5 @@ These examples are for **educational purposes** only. Learn more about [the lega
 
 * [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news)
 * [Join the community on Discord](https://hasdata.com/join-discord)
+
 * [Star this repo if helpful ⭐](#)
